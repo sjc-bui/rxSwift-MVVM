@@ -1,0 +1,26 @@
+[
+    {
+        "name": "A",
+        "cuisine": "european"
+    },
+    {
+        "name": "B",
+        "cuisine": "indian"
+    },
+    {
+        "name": "C",
+        "cuisine": "french"
+    },
+    {
+        "name": "D",
+        "cuisine": "mexican"
+    },
+    {
+        "name": "E",
+        "cuisine": "european"
+    },
+    {
+        "name": "F",
+        "cuisine": "english"
+    }
+]
